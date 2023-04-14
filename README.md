@@ -15,6 +15,6 @@ postsとcommentsに一つずつindex張っただけ。
 
 最初の時点では時点でのスコア
 ````
-{"pass":true,"score":88448,"success":84540,"fail":0,"messages":[]}
+{"pass":true,"score":88742,"success":84979,"fail":0,"messages":[]}
 ````
 
